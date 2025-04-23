@@ -1,5 +1,5 @@
 # QMX-quisk-config
-Configuration for QMX control on quisk
+Configuration for QMX control on quisk on linux
 
 Add this file to quisk folder
 
